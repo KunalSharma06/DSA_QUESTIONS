@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
