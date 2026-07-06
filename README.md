@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -77,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2641-cousins-in-binary-tree-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
