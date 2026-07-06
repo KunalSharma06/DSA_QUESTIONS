@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
