@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
