@@ -1,7 +1,7 @@
 class Solution {
     public String convert(String s, int numRows) {
         String[] arr = new String[numRows];
-        if(numRows == 1){
+        if(numRows == 1 || numRows > s.length() + 1){
             return s;
         }
         for(int i = 0; i < numRows; i++){
