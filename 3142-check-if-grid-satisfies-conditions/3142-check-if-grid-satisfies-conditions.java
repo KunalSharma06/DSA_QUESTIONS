@@ -1,6 +1,5 @@
 class Solution {
     public boolean satisfiesConditions(int[][] grid) {
-        // if(grid.length == 1) return true;
         for(int i = 0; i < grid.length - 1; i++){
             for(int j = 0; j < grid[0].length; j++){
                 if(grid[i][j] != grid[i+1][j]){
