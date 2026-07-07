@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0135-candy) |
+| [0238-product-of-array-except-self](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0575-distribute-candies) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3142-check-if-grid-satisfies-conditions) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
