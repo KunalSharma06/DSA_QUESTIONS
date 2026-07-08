@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0575-distribute-candies) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
