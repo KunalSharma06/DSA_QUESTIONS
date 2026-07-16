@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0575-distribute-candies) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0575-distribute-candies) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
