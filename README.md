@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0860-lemonade-change) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
