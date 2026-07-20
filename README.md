@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0495-teemo-attacking) |
 | [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -234,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0495-teemo-attacking) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
