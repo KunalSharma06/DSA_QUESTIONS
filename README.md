@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [2126-destroying-asteroids](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3731-find-missing-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3731-find-missing-elements) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0495-teemo-attacking) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
