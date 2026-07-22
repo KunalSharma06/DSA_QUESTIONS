@@ -9,8 +9,9 @@ class Solution {
                 ans += boxes * units;
                 truckSize -= boxes;
             }else if(truckSize != 0 && boxes > truckSize){
-                ans += units * (Math.min(boxes, truckSize));
-                truckSize = 0;
+                int take = Math.min(boxes, truckSize);
+                ans += units * take;
+                truckSize -= take;
             }
         }
         return ans;
