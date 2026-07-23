@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2540-minimum-common-value) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## String
 |  |
 | ------- |
