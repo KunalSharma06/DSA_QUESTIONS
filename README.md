@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1710-maximum-units-on-a-truck](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2126-destroying-asteroids) |
