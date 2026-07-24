@@ -1,6 +1,6 @@
 class Solution {
     public int[] maxKDistinct(int[] nums, int k) {
-        Set<Integer> set = new TreeSet<>(Comparator.reverseOrder());
+        Set<Integer> set = new TreeSet<>(Collections.reverseOrder());
         for(int i = 0; i < nums.length; i++){
             set.add(nums[i]);
         }
