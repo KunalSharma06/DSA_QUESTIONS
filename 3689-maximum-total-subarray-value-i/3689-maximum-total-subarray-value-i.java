@@ -10,10 +10,11 @@ class Solution {
                 min = nums[i];
             }
         }
-        long sum = 0;
-        for(int i = 0; i < k; i++){
-            sum += max - min;
-        }
-        return sum;
+        // long sum = 0;
+        // for(int i = 0; i < k; i++){
+        //     sum += max - min;
+        // }
+        // return sum;
+        return (max - min) * k;
     }
 }
