@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3745-maximize-expression-of-three-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3745-maximize-expression-of-three-elements) |
 ## String
 |  |
 | ------- |
