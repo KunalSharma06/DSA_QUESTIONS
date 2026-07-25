@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1590-make-sum-divisible-by-p) |
+| [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
 | [2578-split-with-minimum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2578-split-with-minimum-sum) |
 | [2785-sort-vowels-in-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1392-longest-happy-prefix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1392-longest-happy-prefix) |
+| [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
