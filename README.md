@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2126-destroying-asteroids) |
