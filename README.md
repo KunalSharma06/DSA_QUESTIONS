@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
