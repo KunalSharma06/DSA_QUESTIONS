@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0561-array-partition) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0006-zigzag-conversion) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Simulation
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
