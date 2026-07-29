@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
