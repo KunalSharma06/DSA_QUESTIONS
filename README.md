@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3745-maximize-expression-of-three-elements) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-longest-happy-prefix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1392-longest-happy-prefix) |
 | [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
