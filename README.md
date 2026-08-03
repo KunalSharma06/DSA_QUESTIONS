@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
+| [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2974-minimum-number-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2974-minimum-number-game) |
