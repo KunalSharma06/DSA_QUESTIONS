@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0877-stone-game) |
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1051-height-checker) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
