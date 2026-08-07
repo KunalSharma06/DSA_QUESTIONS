@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0575-distribute-candies) |
+| [0791-custom-sort-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0791-custom-sort-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0791-custom-sort-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0006-zigzag-conversion) |
 | [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0791-custom-sort-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
