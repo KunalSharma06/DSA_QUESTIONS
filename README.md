@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0495-teemo-attacking) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
