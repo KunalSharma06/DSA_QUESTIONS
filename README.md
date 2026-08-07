@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
@@ -508,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0164-maximum-gap) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
