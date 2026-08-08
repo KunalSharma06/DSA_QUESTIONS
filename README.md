@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3745-maximize-expression-of-three-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3913-sort-vowels-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3913-sort-vowels-by-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3913-sort-vowels-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3913-sort-vowels-by-frequency) |
 | [3931-check-adjacent-digit-differences](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3931-check-adjacent-digit-differences) |
 ## Matrix
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3866-first-unique-even-element) |
+| [3913-sort-vowels-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3913-sort-vowels-by-frequency) |
 ## Simulation
 |  |
 | ------- |
