@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0877-stone-game) |
+| [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2029-stone-game-ix) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2974-minimum-number-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0877-stone-game) |
+| [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Radix Sort
 |  |
@@ -564,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -572,5 +579,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
