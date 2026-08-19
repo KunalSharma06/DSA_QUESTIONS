@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3467-transform-array-by-parity](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
