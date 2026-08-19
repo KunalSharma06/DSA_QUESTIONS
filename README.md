@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
 | [0993-cousins-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2641-cousins-in-binary-tree-ii) |
 ## Dynamic Programming
@@ -599,4 +601,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2029-stone-game-ix) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
