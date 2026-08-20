@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1590-make-sum-divisible-by-p](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1590-make-sum-divisible-by-p) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2206-divide-array-into-equal-pairs) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
