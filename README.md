@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0525-contiguous-array) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
