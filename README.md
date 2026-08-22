@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3913-sort-vowels-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3913-sort-vowels-by-frequency) |
 | [3931-check-adjacent-digit-differences](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3931-check-adjacent-digit-differences) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3842-toggle-light-bulbs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3925-concatenate-array-with-reverse) |
