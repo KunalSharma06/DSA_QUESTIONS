@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3019-number-of-changing-keys](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3019-number-of-changing-keys) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
