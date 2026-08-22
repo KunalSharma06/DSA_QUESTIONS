@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0877-stone-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
 |  |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2578-split-with-minimum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
