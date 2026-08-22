@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2029-stone-game-ix) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0877-stone-game) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
