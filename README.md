@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0059-spiral-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0495-teemo-attacking) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
