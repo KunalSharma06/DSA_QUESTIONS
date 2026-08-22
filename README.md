@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
 ## Graph Theory
