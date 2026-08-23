@@ -1,6 +1,9 @@
 class Solution {
     public int longestSubarray(int[] nums, int k) {
-        int max = 100000;
+        int max = 0;
+        for (int x : nums) {
+            if (x > max) max = x;
+        }
         int[] spf = new int[max + 1];
 
         for(int i = 2; i <= max; i++){
