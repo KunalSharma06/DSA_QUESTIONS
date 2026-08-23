@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1590-make-sum-divisible-by-p) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0059-spiral-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0495-teemo-attacking) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1441-build-an-array-with-stack-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
