@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0853-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
 | ------- |
