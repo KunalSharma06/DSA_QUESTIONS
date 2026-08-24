@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3174-clear-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3174-clear-digits) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3913-sort-vowels-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3913-sort-vowels-by-frequency) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3467-transform-array-by-parity) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3843-first-element-with-unique-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3866-first-unique-even-element) |
 | [3913-sort-vowels-by-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3913-sort-vowels-by-frequency) |
