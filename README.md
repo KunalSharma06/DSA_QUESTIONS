@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0877-stone-game) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
