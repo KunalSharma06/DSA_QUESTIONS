@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
