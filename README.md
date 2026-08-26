@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2206-divide-array-into-equal-pairs) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1927-sum-game) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
