@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3412-find-mirror-score-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3412-find-mirror-score-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3174-clear-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3174-clear-digits) |
+| [3412-find-mirror-score-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3412-find-mirror-score-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3019-number-of-changing-keys](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3019-number-of-changing-keys) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3174-clear-digits) |
+| [3412-find-mirror-score-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3412-find-mirror-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3174-clear-digits) |
+| [3412-find-mirror-score-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3412-find-mirror-score-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3842-toggle-light-bulbs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
