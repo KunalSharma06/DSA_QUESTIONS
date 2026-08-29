@@ -775,4 +775,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1075-project-employees-i) |
+| [1907-count-salary-categories](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
