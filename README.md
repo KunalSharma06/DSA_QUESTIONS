@@ -785,5 +785,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1075-project-employees-i) |
+| [1693-daily-leads-and-partners](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1693-daily-leads-and-partners) |
 | [1907-count-salary-categories](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
