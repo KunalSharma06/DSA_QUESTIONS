@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0059-spiral-matrix-ii) |
+| [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0542-01-matrix) |
@@ -760,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
 ## Graph Theory
