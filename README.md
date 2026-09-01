@@ -801,5 +801,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1907-count-salary-categories](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
