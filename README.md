@@ -803,4 +803,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1907-count-salary-categories](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1907-count-salary-categories) |
+| [1965-employees-with-missing-information](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
