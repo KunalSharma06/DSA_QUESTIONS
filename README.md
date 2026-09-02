@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3912-valid-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3925-concatenate-array-with-reverse) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
