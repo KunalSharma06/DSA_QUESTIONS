@@ -1,5 +1,20 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        return true;
+        // return true;
+
+        boolean hasOdd = false;
+
+        for (int num : nums1) {
+            if (num % 2 != 0) {
+                hasOdd = true;
+                break;
+            }
+        }
+
+        if (hasOdd) {
+            return true;
+        } else {
+            return true;
+        }
     }
 }
