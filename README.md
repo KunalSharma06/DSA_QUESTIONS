@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0877-stone-game) |
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
+| [1688-count-of-matches-in-tournament](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0495-teemo-attacking) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
+| [1688-count-of-matches-in-tournament](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
