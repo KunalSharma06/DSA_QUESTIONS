@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2733-neither-minimum-nor-maximum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2578-split-with-minimum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2974-minimum-number-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
