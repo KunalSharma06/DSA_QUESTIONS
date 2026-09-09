@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1075-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
