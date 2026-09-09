@@ -813,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1075-project-employees-i) |
+| [1211-queries-quality-and-percentage](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1693-daily-leads-and-partners) |
