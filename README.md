@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0785-is-graph-bipartite) |
 | [0993-cousins-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0785-is-graph-bipartite) |
 | [0993-cousins-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1020-number-of-enclaves) |
@@ -801,11 +803,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0785-is-graph-bipartite) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -838,4 +842,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1907-count-salary-categories](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1907-count-salary-categories) |
 | [1965-employees-with-missing-information](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1965-employees-with-missing-information) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
