@@ -846,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1693-daily-leads-and-partners](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1795-rearrange-products-table) |
