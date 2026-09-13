@@ -840,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1179-reformat-department-table](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1179-reformat-department-table) |
+| [1193-monthly-transactions-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1587-bank-account-summary-ii) |
