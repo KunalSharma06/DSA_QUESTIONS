@@ -846,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1693-daily-leads-and-partners](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1965-employees-with-missing-information) |
