@@ -2,6 +2,5 @@
 select user_id,
 max(time_stamp) as last_stamp
 from logins
-where time_stamp >= '2020-01-01'
-and time_stamp < '2021-01-01'
+where year(time_stamp) = 2020
 group by user_id;
