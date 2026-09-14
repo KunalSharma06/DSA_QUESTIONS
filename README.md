@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0877-stone-game) |
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [1688-count-of-matches-in-tournament](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1688-count-of-matches-in-tournament) |
@@ -873,4 +874,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0207-course-schedule) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
