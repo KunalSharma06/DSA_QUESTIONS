@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0076-minimum-window-substring) |
+| [0224-basic-calculator](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0318-maximum-product-of-word-lengths) |
@@ -911,4 +914,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
