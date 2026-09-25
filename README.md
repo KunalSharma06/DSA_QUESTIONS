@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0445-add-two-numbers-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0445-add-two-numbers-ii) |
 ## Database
 |  |
@@ -920,5 +921,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
