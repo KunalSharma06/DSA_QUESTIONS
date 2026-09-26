@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [1710-maximum-units-on-a-truck](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1710-maximum-units-on-a-truck) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1590-make-sum-divisible-by-p) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2206-divide-array-into-equal-pairs) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
