@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0227-basic-calculator-ii) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0224-basic-calculator) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
