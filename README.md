@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1051-height-checker) |
+| [1110-delete-nodes-and-return-forest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2641-cousins-in-binary-tree-ii) |
