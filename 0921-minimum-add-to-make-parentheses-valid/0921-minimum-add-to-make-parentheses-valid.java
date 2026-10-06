@@ -14,19 +14,19 @@ class Solution {
     //    }
     //    return st.size();
 
-    int open = 0;
-    int add = 0;
-    for(int i = 0; i < s.length(); i++){
-        if(s.charAt(i) == '('){
-            open++;
-        }else{
-            if(open > 0){
-                open--;
-            }else{
-                add++;
+        int open = 0;
+        int ans = 0;
+        for(int i = 0; i < s.length(); i++){
+            if(s.charAt(i) == '(') open++;
+            else {
+                if(open >= 1){
+                    open--;
+                }else{
+                    ans++;
+                }
             }
         }
-    }
-    return open + add;
+
+        return open + ans;
     }
 }
