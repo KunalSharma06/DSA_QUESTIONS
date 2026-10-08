@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3412-find-mirror-score-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3412-find-mirror-score-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3019-number-of-changing-keys) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3174-clear-digits) |
 | [3412-find-mirror-score-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3412-find-mirror-score-of-a-string) |
