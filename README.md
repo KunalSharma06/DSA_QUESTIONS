@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
