@@ -671,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
