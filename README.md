@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3745-maximize-expression-of-three-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3745-maximize-expression-of-three-elements) |
