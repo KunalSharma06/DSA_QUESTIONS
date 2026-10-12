@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0207-course-schedule) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0127-word-ladder) |
 | [0224-basic-calculator](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0316-remove-duplicate-letters) |
@@ -1029,4 +1032,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
