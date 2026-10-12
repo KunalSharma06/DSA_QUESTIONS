@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2974-minimum-number-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2974-minimum-number-game) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Bucket Sort
 |  |
