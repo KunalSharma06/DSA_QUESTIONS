@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2284-sender-with-largest-word-count) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2206-divide-array-into-equal-pairs) |
 | [2284-sender-with-largest-word-count](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2284-sender-with-largest-word-count) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2540-minimum-common-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2540-minimum-common-value) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2974-minimum-number-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2974-minimum-number-game) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3275-k-th-nearest-obstacle-queries) |
