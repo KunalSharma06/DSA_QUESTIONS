@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0652-find-duplicate-subtrees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0652-find-duplicate-subtrees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0993-cousins-in-binary-tree) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
@@ -1055,4 +1059,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0973-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
