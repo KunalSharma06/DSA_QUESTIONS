@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
 | [1110-delete-nodes-and-return-forest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0791-custom-sort-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
+| [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
 | [1110-delete-nodes-and-return-forest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1051-height-checker) |
+| [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0942-di-string-match) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
+| [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -799,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0992-subarrays-with-k-different-integers) |
+| [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2029-stone-game-ix) |
@@ -881,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0973-k-closest-points-to-origin) |
+| [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1686-stone-game-vi) |
