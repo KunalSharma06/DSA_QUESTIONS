@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3745-maximize-expression-of-three-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
