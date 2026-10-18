@@ -19,15 +19,13 @@ class Solution {
                 nr++;
             }
 
-            if(nr < 0 || nr >= n || nc < 0 || nc >= m){
-                return new int[]{r, c};
-            }
-            if(visited[nr][nc]){
-                return new int[]{r, c};
+            if(nr < 0 || nr >= n || nc < 0 || nc >= m || visited[nr][nc]){
+                break;
             }
             r = nr;
             c = nc;
             visited[r][c] = true;
         }
+        return new int[]{r, c};
     }
 }
