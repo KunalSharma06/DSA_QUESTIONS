@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2733-neither-minimum-nor-maximum) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2549-count-distinct-numbers-on-board) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2578-split-with-minimum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2284-sender-with-largest-word-count) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2418-sort-the-people](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2418-sort-the-people) |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2575-find-the-divisibility-array-of-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
