@@ -8,8 +8,6 @@ class Solution {
             rem = (rem * 10 + digit) % m;
             if(rem == 0){
                 arr[i] = 1;
-            }else{
-                arr[i] = 0;
             }
         }
         return arr;
