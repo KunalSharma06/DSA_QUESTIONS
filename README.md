@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
 | [1110-delete-nodes-and-return-forest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
 | [1110-delete-nodes-and-return-forest](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1110-delete-nodes-and-return-forest) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1331-rank-transform-of-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
+| [1331-rank-transform-of-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) |
