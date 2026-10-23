@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0513-find-bottom-left-tree-value) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0207-course-schedule) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0098-validate-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0513-find-bottom-left-tree-value) |
