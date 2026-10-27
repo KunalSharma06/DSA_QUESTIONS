@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0078-subsets) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0397-integer-replacement) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2206-divide-array-into-equal-pairs) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0078-subsets) |
 ## Counting
 |  |
 | ------- |
