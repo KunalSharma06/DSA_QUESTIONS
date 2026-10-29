@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1029-two-city-scheduling) |
+| [1035-uncrossed-lines](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1035-uncrossed-lines) |
 | [1051-height-checker](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1051-height-checker) |
 | [1054-distant-barcodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1094-car-pooling) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0877-stone-game) |
+| [1035-uncrossed-lines](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1143-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1035-uncrossed-lines](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1143-longest-common-subsequence) |
 ## Longest Increasing Subsequence
 |  |
