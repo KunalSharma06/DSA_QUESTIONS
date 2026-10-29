@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0227-basic-calculator-ii) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0198-house-robber) |
@@ -925,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0397-integer-replacement) |
 ## Heap (Priority Queue)
 |  |
