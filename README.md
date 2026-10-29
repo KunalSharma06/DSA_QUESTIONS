@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0397-integer-replacement) |
