@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0347-top-k-frequent-elements) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0633-sum-of-square-numbers) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0413-arithmetic-slices) |
@@ -1152,4 +1155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
