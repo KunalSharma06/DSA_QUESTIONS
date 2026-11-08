@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0090-subsets-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0397-integer-replacement) |
 | [2206-divide-array-into-equal-pairs](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2206-divide-array-into-equal-pairs) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0090-subsets-ii) |
 ## Counting
 |  |
 | ------- |
