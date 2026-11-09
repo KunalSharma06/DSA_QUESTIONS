@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0508-most-frequent-subtree-sum) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0200-number-of-islands) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0538-convert-bst-to-greater-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0099-recover-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0508-most-frequent-subtree-sum) |
