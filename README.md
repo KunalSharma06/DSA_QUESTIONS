@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3731-find-missing-elements) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1143-longest-common-subsequence) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [3693-climbing-stairs-ii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3693-climbing-stairs-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
