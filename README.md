@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0652-find-duplicate-subtrees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0938-range-sum-of-bst) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0652-find-duplicate-subtrees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0785-is-graph-bipartite) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0652-find-duplicate-subtrees) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/0938-range-sum-of-bst) |
