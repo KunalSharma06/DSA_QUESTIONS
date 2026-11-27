@@ -1101,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1158-market-analysis-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1158-market-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1164-product-price-at-a-given-date) |
 | [1179-reformat-department-table](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/KunalSharma06/DSA_QUESTIONS/tree/master/1211-queries-quality-and-percentage) |
